@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { json } = require('sequelize/types');
+// const { json } = require('sequelize/types'); //the app works when I remove this???
 const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
