@@ -17,4 +17,3 @@ sequelize.sync().then(() => {
     console.log(`App listening on port ${PORT}!`);
   });
 });
-
