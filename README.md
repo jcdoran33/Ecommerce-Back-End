@@ -12,7 +12,7 @@ The app will allow the user to view all Categories, Products, and Tags, or view 
 
 ## Link to Video Walkthrough
 
-[Google Drive Link for Video Walkthrough]()
+[Google Drive Link for Video Walkthrough](https://drive.google.com/file/d/1NN7W5bonE5ObkoGB0DUD2Cg4DtVWNz3F/view?usp=sharing)
 
 ## Link to Github Repository
 
